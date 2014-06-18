@@ -159,7 +159,7 @@ Emacs 本身并不能给你带来任何好处,这就决定了其社区成员都�
 我应该一开始就照抄 [[http://www.sanityinc.com/][世界级大师 Steve Purcell]] 的 [[https://github.com/purcell/emacs.d][emacs 配置]].
 
 *警告,Purcell 总爱试用最新的 Web 开发的新技术,对他而言稳定性不是第一位的,如果你有足够的热情和能力,愿意和他一起折腾,那么你的 Emacs 水平会提高得很快*
-
+
 这个如果是很重要的前提,当我上了 Purcell 的贼船时,我已有 10 年开发经验,精通多种开发语言.
 
 如果你不愿意过于折腾,那么你至少不要重复我的错误,你不要质疑,你不要创新,你要跟着高手做.比如 [[https://github.com/eschulte/emacs24-starter-kit][Eric Schulte 的 Emacs-starter-kit]] 很适合初学者.[[https://github.com/bbatsov/prelude][Bozhidar Batsov 的配置]] 也不错 (不一定适合初学者).也可以用 [[https://github.com/redguardtoo/emacs.d][我的配置]].
@@ -401,7 +401,7 @@ http_proxy=http://127.0.0.1:8000 emacs -nw
 
 所以学点 Lisp 对于你提高 Emacs 的使用水平没什么坏处.另外 Lisp 是种不错的语言,如果你的职业是 IT 的话,Lisp 值得一学.
 
-顺便说一下,Lisp 是中很容易的学的语言,比 VB 容易多了,一旦你适应其语法后,就会发觉它其实对程序员蛮友好的,至少少打很多字.
+顺便说一下,Lisp 是种很容易的学的语言,比 VB 容易多了,一旦你适应其语法后,就会发觉它其实对程序员蛮友好的,至少少打很多字.
 *** 早点学习 Emacs Lisp 是否有助于早日成为 Emacs 高手？
 否,只会起阻碍作用!
 
